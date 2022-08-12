@@ -6,12 +6,11 @@
  
  ## Technologies Used
    * Frontend:
-     * React
-     * HTML/CSS
+     * React/Redux
+     * Axios
    * Backend:
-     * Javascript
-     * Redux
      * MongoDB
+     * NodeJS
      * Express
    
 ## Features
